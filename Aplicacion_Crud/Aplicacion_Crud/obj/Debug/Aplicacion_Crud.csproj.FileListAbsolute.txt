@@ -1,0 +1,9 @@
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\bin\Debug\Aplicacion_Crud.exe.config
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\bin\Debug\Aplicacion_Crud.exe
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\bin\Debug\Aplicacion_Crud.pdb
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\obj\Debug\Aplicacion_Crud.csprojResolveAssemblyReference.cache
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\obj\Debug\Aplicacion_Crud.Form1.resources
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\obj\Debug\Aplicacion_Crud.Properties.Resources.resources
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\obj\Debug\Aplicacion_Crud.csproj.GenerateResource.Cache
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\obj\Debug\Aplicacion_Crud.exe
+C:\Users\Wilmer\Desktop\P_O_O\Aplicacion_Crud\Aplicacion_Crud\obj\Debug\Aplicacion_Crud.pdb
